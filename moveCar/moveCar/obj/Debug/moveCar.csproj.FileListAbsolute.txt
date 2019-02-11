@@ -1,0 +1,13 @@
+F:\Четвертый курс\МДК 03.01\moveCar\moveCar\bin\Debug\moveCar.exe.config
+I:\Четвертый курс\МДК 03.01\moveCar\moveCar\bin\Debug\moveCar.exe.config
+I:\Четвертый курс\МДК 03.01\moveCar\moveCar\bin\Debug\moveCar.exe
+I:\Четвертый курс\МДК 03.01\moveCar\moveCar\bin\Debug\moveCar.pdb
+I:\Четвертый курс\МДК 03.01\moveCar\moveCar\obj\Debug\moveCar.csprojAssemblyReference.cache
+I:\Четвертый курс\МДК 03.01\moveCar\moveCar\obj\Debug\moveCar.csproj.CoreCompileInputs.cache
+I:\Четвертый курс\МДК 03.01\moveCar\moveCar\obj\Debug\moveCar.exe
+I:\Четвертый курс\МДК 03.01\moveCar\moveCar\obj\Debug\moveCar.pdb
+F:\Четвертый курс\МДК 03.01\moveCar\moveCar\obj\Debug\moveCar.exe
+F:\Четвертый курс\МДК 03.01\moveCar\moveCar\obj\Debug\moveCar.pdb
+F:\Четвертый курс\МДК 03.01\moveCar\moveCar\bin\Debug\moveCar.exe
+F:\Четвертый курс\МДК 03.01\moveCar\moveCar\bin\Debug\moveCar.pdb
+F:\Четвертый курс\МДК 03.01\moveCar\moveCar\obj\Debug\moveCar.csprojResolveAssemblyReference.cache
