@@ -1,0 +1,9 @@
+F:\Четвертый курс\МДК 03.01\ReadWriteProgram\ReadWriteProgram\bin\Debug\ReadWriteProgram.exe.config
+F:\Четвертый курс\МДК 03.01\ReadWriteProgram\ReadWriteProgram\bin\Debug\ReadWriteProgram.exe
+F:\Четвертый курс\МДК 03.01\ReadWriteProgram\ReadWriteProgram\bin\Debug\ReadWriteProgram.pdb
+F:\Четвертый курс\МДК 03.01\ReadWriteProgram\ReadWriteProgram\obj\Debug\ReadWriteProgram.csprojResolveAssemblyReference.cache
+F:\Четвертый курс\МДК 03.01\ReadWriteProgram\ReadWriteProgram\obj\Debug\ReadWriteProgram.fMain.resources
+F:\Четвертый курс\МДК 03.01\ReadWriteProgram\ReadWriteProgram\obj\Debug\ReadWriteProgram.Properties.Resources.resources
+F:\Четвертый курс\МДК 03.01\ReadWriteProgram\ReadWriteProgram\obj\Debug\ReadWriteProgram.csproj.GenerateResource.Cache
+F:\Четвертый курс\МДК 03.01\ReadWriteProgram\ReadWriteProgram\obj\Debug\ReadWriteProgram.exe
+F:\Четвертый курс\МДК 03.01\ReadWriteProgram\ReadWriteProgram\obj\Debug\ReadWriteProgram.pdb
