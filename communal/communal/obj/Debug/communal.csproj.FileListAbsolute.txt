@@ -1,0 +1,10 @@
+F:\Четвертый курс\МДК 03.01\communal\communal\bin\Debug\communal.exe.config
+I:\Четвертый курс\МДК 03.01\communal\communal\bin\Debug\communal.exe.config
+I:\Четвертый курс\МДК 03.01\communal\communal\bin\Debug\communal.exe
+I:\Четвертый курс\МДК 03.01\communal\communal\bin\Debug\communal.pdb
+I:\Четвертый курс\МДК 03.01\communal\communal\obj\Debug\communal.csprojAssemblyReference.cache
+I:\Четвертый курс\МДК 03.01\communal\communal\obj\Debug\communal.csproj.CoreCompileInputs.cache
+I:\Четвертый курс\МДК 03.01\communal\communal\obj\Debug\communal.exe
+I:\Четвертый курс\МДК 03.01\communal\communal\obj\Debug\communal.pdb
+F:\Четвертый курс\МДК 03.01\communal\communal\obj\Debug\communal.exe
+F:\Четвертый курс\МДК 03.01\communal\communal\obj\Debug\communal.pdb
