@@ -1,0 +1,6 @@
+F:\Четвертый курс\МДК 03.01\interfaceGeometryFigures\interfaceGeometryFigures\bin\Debug\interfaceGeometryFigures.exe.config
+F:\Четвертый курс\МДК 03.01\interfaceGeometryFigures\interfaceGeometryFigures\bin\Debug\interfaceGeometryFigures.exe
+F:\Четвертый курс\МДК 03.01\interfaceGeometryFigures\interfaceGeometryFigures\bin\Debug\interfaceGeometryFigures.pdb
+F:\Четвертый курс\МДК 03.01\interfaceGeometryFigures\interfaceGeometryFigures\obj\Debug\interfaceGeometryFigures.csprojResolveAssemblyReference.cache
+F:\Четвертый курс\МДК 03.01\interfaceGeometryFigures\interfaceGeometryFigures\obj\Debug\interfaceGeometryFigures.exe
+F:\Четвертый курс\МДК 03.01\interfaceGeometryFigures\interfaceGeometryFigures\obj\Debug\interfaceGeometryFigures.pdb
