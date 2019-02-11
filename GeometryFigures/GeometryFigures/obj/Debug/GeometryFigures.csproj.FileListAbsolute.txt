@@ -1,0 +1,19 @@
+F:\МДК 03.01\GeometryFigures\GeometryFigures\bin\Debug\GeometryFigures.exe.config
+F:\МДК 03.01\GeometryFigures\GeometryFigures\bin\Debug\GeometryFigures.exe
+F:\МДК 03.01\GeometryFigures\GeometryFigures\bin\Debug\GeometryFigures.pdb
+F:\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.csprojResolveAssemblyReference.cache
+F:\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.exe
+F:\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.pdb
+I:\МДК 03.01\GeometryFigures\GeometryFigures\bin\Debug\GeometryFigures.exe.config
+I:\МДК 03.01\GeometryFigures\GeometryFigures\bin\Debug\GeometryFigures.exe
+I:\МДК 03.01\GeometryFigures\GeometryFigures\bin\Debug\GeometryFigures.pdb
+I:\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.csprojAssemblyReference.cache
+I:\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.csproj.CoreCompileInputs.cache
+I:\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.exe
+I:\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.pdb
+F:\Четвертый курс\МДК 03.01\GeometryFigures\GeometryFigures\bin\Debug\GeometryFigures.exe.config
+F:\Четвертый курс\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.exe
+F:\Четвертый курс\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.pdb
+F:\Четвертый курс\МДК 03.01\GeometryFigures\GeometryFigures\bin\Debug\GeometryFigures.exe
+F:\Четвертый курс\МДК 03.01\GeometryFigures\GeometryFigures\bin\Debug\GeometryFigures.pdb
+F:\Четвертый курс\МДК 03.01\GeometryFigures\GeometryFigures\obj\Debug\GeometryFigures.csprojResolveAssemblyReference.cache
