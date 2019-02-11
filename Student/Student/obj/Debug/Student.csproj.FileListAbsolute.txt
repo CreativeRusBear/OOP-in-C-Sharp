@@ -1,0 +1,13 @@
+F:\Четвертый курс\МДК 03.01\Student\Student\bin\Debug\Student.exe.config
+F:\Четвертый курс\МДК 03.01\Student\Student\bin\Debug\Student.exe
+F:\Четвертый курс\МДК 03.01\Student\Student\bin\Debug\Student.pdb
+F:\Четвертый курс\МДК 03.01\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+F:\Четвертый курс\МДК 03.01\Student\Student\obj\Debug\Student.exe
+F:\Четвертый курс\МДК 03.01\Student\Student\obj\Debug\Student.pdb
+E:\Документы\4 курс\МДК 03.01\ООП\Задание №6\Student\Student\bin\Debug\Student.exe.config
+E:\Документы\4 курс\МДК 03.01\ООП\Задание №6\Student\Student\bin\Debug\Student.exe
+E:\Документы\4 курс\МДК 03.01\ООП\Задание №6\Student\Student\bin\Debug\Student.pdb
+E:\Документы\4 курс\МДК 03.01\ООП\Задание №6\Student\Student\obj\Debug\Student.csprojAssemblyReference.cache
+E:\Документы\4 курс\МДК 03.01\ООП\Задание №6\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+E:\Документы\4 курс\МДК 03.01\ООП\Задание №6\Student\Student\obj\Debug\Student.exe
+E:\Документы\4 курс\МДК 03.01\ООП\Задание №6\Student\Student\obj\Debug\Student.pdb
