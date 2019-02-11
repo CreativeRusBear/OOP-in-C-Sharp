@@ -4,3 +4,10 @@ F:\Четвертый курс\МДК 03.01\nalog\nalog\bin\Debug\nalog.pdb
 F:\Четвертый курс\МДК 03.01\nalog\nalog\obj\Debug\nalog.csprojResolveAssemblyReference.cache
 F:\Четвертый курс\МДК 03.01\nalog\nalog\obj\Debug\nalog.exe
 F:\Четвертый курс\МДК 03.01\nalog\nalog\obj\Debug\nalog.pdb
+F:\Github Projects\OOP-in-C-Sharp\nalog\nalog\bin\Debug\nalog.exe.config
+F:\Github Projects\OOP-in-C-Sharp\nalog\nalog\bin\Debug\nalog.exe
+F:\Github Projects\OOP-in-C-Sharp\nalog\nalog\bin\Debug\nalog.pdb
+F:\Github Projects\OOP-in-C-Sharp\nalog\nalog\obj\Debug\nalog.csprojAssemblyReference.cache
+F:\Github Projects\OOP-in-C-Sharp\nalog\nalog\obj\Debug\nalog.csproj.CoreCompileInputs.cache
+F:\Github Projects\OOP-in-C-Sharp\nalog\nalog\obj\Debug\nalog.exe
+F:\Github Projects\OOP-in-C-Sharp\nalog\nalog\obj\Debug\nalog.pdb
