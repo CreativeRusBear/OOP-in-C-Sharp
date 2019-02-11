@@ -1,0 +1,13 @@
+F:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\bin\Debug\CarAndBus.exe.config
+F:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\bin\Debug\CarAndBus.exe
+F:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\bin\Debug\CarAndBus.pdb
+F:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\obj\Debug\CarAndBus.csprojResolveAssemblyReference.cache
+F:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\obj\Debug\CarAndBus.exe
+F:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\obj\Debug\CarAndBus.pdb
+I:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\bin\Debug\CarAndBus.exe.config
+I:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\bin\Debug\CarAndBus.exe
+I:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\bin\Debug\CarAndBus.pdb
+I:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\obj\Debug\CarAndBus.csprojAssemblyReference.cache
+I:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\obj\Debug\CarAndBus.csproj.CoreCompileInputs.cache
+I:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\obj\Debug\CarAndBus.exe
+I:\Четвертый курс\МДК 03.01\CarAndBus\CarAndBus\obj\Debug\CarAndBus.pdb
